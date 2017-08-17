@@ -9,7 +9,7 @@ words, if you like.
 Your composition can be in any genre and on any topic you choose. The
 goal is to choose a subject about which you are passionate and to write in a form and style that best further your creativity and your passions. Ideally, you will add short narrative sections to your draft over a period of several weeks as we complete the weekly activities. These sections might not immediately fit together, but they will add imagery, sound, colour, shape, and metaphor. You can pick and choose which of these sections you keep, but they are an excellent way to start writing without actually planning a narrative.
 
-Take a look at the [posts](https://crwr4130.netlify.com/posts/) on the course website. You will see several creative narratives (such as [The Bear](https://crwr4130.netlify.com/education/creativity/2017/08/02/the-bear-a-mythological-vignette/), [Big Problems: Small Wonder](https://crwr4130.netlify.com/education/2017/07/31/big-problems-small-wonder/), [Windbreaker](https://crwr4130.netlify.com/education/creativity/2017/08/06/windbreaker/), and others). In addition, you can see 16 different creative narratives in your instructor's online books [here](https://www.rosslaird.com/grain-of-truth/) and [here](https://www.rosslaird.com/stones-throw/). Overall, you have roughly 150,000 words worth of example content from your instructor to help you understand what a narrative of creativity might look like. You also have the examples of the course readings. Your job is to make a narrative of your own.
+Take a look at the [posts](https://crwr2900.netlify.com/posts/) on the course website. You will see several creative narratives (such as [The Bear](https://crwr2900.netlify.com/education/creativity/2017/08/02/the-bear-a-mythological-vignette/), [Big Problems: Small Wonder](https://crwr2900.netlify.com/education/2017/07/31/big-problems-small-wonder/), [Windbreaker](https://crwr2900.netlify.com/education/creativity/2017/08/06/windbreaker/), and others). In addition, you can see 16 different creative narratives in your instructor's online books [here](https://www.rosslaird.com/grain-of-truth/) and [here](https://www.rosslaird.com/stones-throw/). Overall, you have roughly 150,000 words worth of example content from your instructor to help you understand what a narrative of creativity might look like. You also have the examples of the course readings. Your job is to make a narrative of your own.
 
 This is the hard part: deciding what to write about. You must decide; your instructor won't assign a topic for you. The first step in authentic creativity involves getting a bit uncomfortable, and this kind of freedom in an academic setting is usually uncomfortable. Stick with the discomfort until something happens. Use the hacker's approach:
 
@@ -143,6 +143,7 @@ You are also welcome to use this course as an opportunity to learn [git](https:/
 
 
 ## Assessment Criteria for the Creative Composition
+
 Projects for this course are focused on authentic and creative
 inquiry. Accordingly, the following criteria – which are based on the
 philosophy of creative inquiry – are used to evaluate engagement and

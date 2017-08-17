@@ -1,4 +1,4 @@
-### Activities and Engagement
+# Activities and Engagement
 
 The expectation is that you will attend all sessions and involve yourself in the class process. Your willingness to engage creatively with the learning process, to take appropriate personal risks, and to participate in group activities are all central to your involvement in this class. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the class is as important as your academic knowledge of the material.
 
@@ -36,5 +36,9 @@ own responses, thoughts, and feelings. They ask themselves:
 These questions, and many others, require the capacity for self-reflection and
 self-awareness. As we continue in the course, you may wish to consider these
 questions as they apply to you.
+
+## Activities
+
+We will normally meet outside, at a local park. The complete listing of sites and dates is on the [course website](https://crwr1240.netlify.com/).
 
 

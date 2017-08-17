@@ -1,6 +1,6 @@
 # Readings and Resources
 
-At a minimum, please read _Genesis: Memory of Fire_ (by Eduardo Galeano), _Wild Stone Heart_ (by Sharon Butala), and _The Woman Warrior_ (by Maxine Hong Kingston).
+At a minimum, please read _The Hidden Life of Trees_ (Wohlleben), _The Perfection of the Morning_ (Butala), and _Into the Wild_ (Krakauer).
 
 And, while you're at it, read as many of these books as you can:
 
