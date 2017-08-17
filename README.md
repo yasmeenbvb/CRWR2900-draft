@@ -4,6 +4,6 @@ This is your repository for working on your composition for Creative Writing 290
 
 The full documentation for the course is contained in the other documents in
 this repository. Please read them (in order). Click on each document to view it. Use the back button or click the breadcrumb menu above (where it shows
-`CRWR1200-draft` in blue) to return to the main page.
+`CRWR2900-draft` in blue) to return to the main page.
 
 If you are looking for where you are supposed to go for this week's outing, the complete listing of sites and dates is on the [course website](https://crwr2900.netlify.com/).
