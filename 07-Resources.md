@@ -44,19 +44,19 @@ And, while you're at it, read as many of these books as you can:
 
 ## Resources on the course website
 
-[Starting to Write](http://crwr4130.netlify.com/creativity/2017/08/12/starting-to-write/)
+[Starting to Write](http://crwr2900.netlify.com/creativity/2017/08/12/starting-to-write/)
 
-[Steps to Better Writing](http://crwr4130.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
+[Steps to Better Writing](http://crwr2900.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
 
-[Tips on Tightening](https://crwr4130.netlify.com/creativity/2017/08/15/tips-on-tightening/)
+[Tips on Tightening](https://crwr2900.netlify.com/creativity/2017/08/15/tips-on-tightening/)
 
-[Sentence Composition Checklist](https://crwr4130.netlify.com/creativity/2017/08/15/sentence-checklist/)
+[Sentence Composition Checklist](https://crwr2900.netlify.com/creativity/2017/08/15/sentence-checklist/)
 
-[On Being Focused](https://crwr4130.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
+[On Being Focused](https://crwr2900.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
 
 ## Other Interesting Resoruces
 
-[Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr4130.netlify.com/) is created with Jekyll)
+[Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr2900.netlify.com/) is created with Jekyll)
 
 [Git for Writers](https://medium.com/electric-ship/git-for-writers-write-fiction-like-a-good-programmer-ea6f0309a69a)
 
