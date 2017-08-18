@@ -4,7 +4,7 @@ Welcome to Creative Writing 2900. You may wish to bookmark this page.
 
 Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
 
-## Off We Go
+## Sign the Waiver!
 
 Before you do anything else, you should print off and sign the [waiver](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf) form. If you are an adult, use [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf). If you are minor us [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Minor).pdf). You will not be able to attend any class sessions after the first class until you have signed the waiver.
 
