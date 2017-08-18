@@ -6,7 +6,9 @@ Before going any farther, make sure you have a GitHub account. If you don't have
 
 ## Sign the Waiver!
 
-Before you do anything else, you should print off and sign the [waiver](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf) form. If you are an adult, use [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf). If you are minor us [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Minor).pdf). You will not be able to attend any class sessions after the first class until you have signed the waiver.
+Before you do anything else, you should print off and sign the [waiver](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf) form. If you are an adult, use [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf). If you are minor us [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Minor).pdf). When you click on the appropriate link, you will see a button to download the file. Download it, print it off, sign it, and bring it to the next class. 
+
+#### You will not be able to attend any class sessions (after the first) until you have signed the waiver.
 
 ## Course Materials
 
