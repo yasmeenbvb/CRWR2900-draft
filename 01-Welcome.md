@@ -22,9 +22,6 @@ Also, please review the following online guides to GitHub:
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[Learning More about Git and GitHub](https://guides.github.com/)
-
- 
 ## About this Course
 
 In this course, learners have many opportunities to explore the interconnected themes of creativity, ecology, sustainability, nature experience, and personal and academic development. We contextualize these creative and academic inquiries and use them to broaden our understanding of both humanity and the natural world. This is a course for learners who seek to move beyond the classroom, beyond traditional academic structures, and beyond the confines of the human-built environment. Nature is a profound teacher. This course helps us find that teaching.
