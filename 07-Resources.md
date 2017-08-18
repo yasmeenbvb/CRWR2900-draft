@@ -42,6 +42,8 @@ And, while you're at it, read as many of these books as you can:
 * Pat Allen, _Art is a Way of Knowing_
 * Frank Wilson, _The Hand_
 
+Also feel free to review your instructor's [bookshelf for this course on Goodreads](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-2900&utf8=%E2%9C%93&view=covers).
+
 ## Resources on the course website
 
 [Starting to Write](http://crwr2900.netlify.com/creativity/2017/08/12/starting-to-write/)
@@ -54,7 +56,7 @@ And, while you're at it, read as many of these books as you can:
 
 [On Being Focused](https://crwr2900.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
 
-## Other Interesting Resoruces
+## Other Interesting Resources
 
 [Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr2900.netlify.com/) is created with Jekyll)
 
