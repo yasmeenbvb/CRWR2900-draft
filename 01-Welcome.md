@@ -6,13 +6,15 @@ Before going any farther, make sure you have a GitHub account. If you don't have
 
 ## Off We Go
 
+Before you do anything else, you should print off and sign the [waiver](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf) form. If you are an adult, use [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Adult).pdf). If you are minor us [this form](https://github.com/creative-writing-2900/CRWR2900-draft/blob/master/Waiver%20Form%20(Minor).pdf). You will not be able to attend any class sessions after the first class until you have signed the waiver.
+
+## Course Materials
+
 All of the course materials are here. Please read them. They are numbered; that's the order in which you should read them.
 
 If you get stuck, open an issue using the `issues` tab above or ask in class.
 
 Also, please review the following online guides to GitHub:
-
-[An Introduction to GitHub](https://guides.github.com/activities/hello-world/)
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
