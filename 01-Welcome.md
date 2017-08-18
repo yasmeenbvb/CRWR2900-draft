@@ -20,6 +20,8 @@ Also, please review the following online guides to GitHub:
 
 [Writing on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
 
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## About this Course
