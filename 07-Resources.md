@@ -2,6 +2,10 @@
 
 At a minimum, please read _The Hidden Life of Trees_ (Wohlleben), _The Perfection of the Morning_ (Butala), and _Into the Wild_ (Krakauer).
 
+Also read everything on the [course website](https://crwr2900.netlify.com/).
+
+And please review your instructor's [bookshelf for this course on Goodreads](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-2900&utf8=%E2%9C%93&view=covers).
+
 And, while you're at it, read as many of these books as you can:
 
 ## Books on writing a sentence/punctuation
@@ -41,34 +45,6 @@ And, while you're at it, read as many of these books as you can:
 * Mary Richards, _Centering in Pottery, Poetry and the Person_
 * Pat Allen, _Art is a Way of Knowing_
 * Frank Wilson, _The Hand_
-
-Also feel free to review your instructor's [bookshelf for this course on Goodreads](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-2900&utf8=%E2%9C%93&view=covers).
-
-## Resources on the course website
-
-[Starting to Write](http://crwr2900.netlify.com/creativity/2017/08/12/starting-to-write/)
-
-[Steps to Better Writing](http://crwr2900.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
-
-[Tips on Tightening](https://crwr2900.netlify.com/creativity/2017/08/15/tips-on-tightening/)
-
-[Sentence Composition Checklist](https://crwr2900.netlify.com/creativity/2017/08/15/sentence-checklist/)
-
-[On Being Focused](https://crwr2900.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
-
-## Other Interesting Resources
-
-[Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr2900.netlify.com/) is created with Jekyll)
-
-[Git for Writers](https://medium.com/electric-ship/git-for-writers-write-fiction-like-a-good-programmer-ea6f0309a69a)
-
-[Git for Novelists and Screenwriters](http://boffosocko.com/2014/09/17/revision-control/)
-
-[An Introduction to GitHub](https://guides.github.com/activities/hello-world/)
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-[Learning More about Git and GitHub](https://guides.github.com/)
 
 ## Keep Searching!
 
