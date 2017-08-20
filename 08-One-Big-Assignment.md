@@ -30,13 +30,15 @@ First Draft | Second Draft | Third Draft | Commits
 
 ## The Composition Process
 
-During the first week of the semester you will receive a link, via email, to a GitHub repository which will be your online space to work on your composition. You will write your composition on GitHub, saving your changes as you go. We will examine this process more closely in the coming weeks.
+During the first week of the semester you will receive a link, via email, to a GitHub repository which will be your online space to work on your composition. You will write your composition on GitHub, saving your changes as you go.
+
+### Tip: Remember to bookmark your repository! You will be returning to it many times.
 
 ## Getting started
 
 Click the link you received, via email, to your personal repository. Login to GitHub (if you haven't already) and open the repository. You will see a file called `draft.md`. Click on the file name to open it. You will see some sample text. Click the pencil icon above and to the right (beside the trashcan) to edit the file. (You can ignore the buttons that say Raw, Blame, and History.)
 
-Edit your text using Markdown format (see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)). You can toggle between editing and previewing using the tabs at the top of the editing box (the `Preview changes` tab has an eye icon). When you have written a few sentences (or even less), scroll to the bottom of the screen where a green button says `Commit changes`. Don't click that button yet. First, add a comment in the small box; something like "I wrote a paragraph about cookies". Suggested text is provided in this box; feel free to use that.
+Edit your text using Markdown format (see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) as well as below). You can toggle between editing and previewing using the tabs at the top of the editing box (the `Preview changes` tab has an eye icon). When you have written a few sentences (or even less), scroll to the bottom of the screen where a green button says `Commit changes`. Don't click that button yet. First, add a comment in the small box; something like "I wrote a paragraph about cookies". Suggested text is provided in this box; feel free to use that.
 
 In the larger box below, add an "optional extended description". You don't have to do this if you are committing (saving) only a sentence or two; but if you have added a significant chunk of text, you should say something about your process. Here are some possibilities:
 
@@ -48,29 +50,33 @@ Commit messages are an excellent way to track what you have done and why.
 
 When you are ready to save your document, click the button that says `Commit`. Don't worry about the two small buttons that allow you to choose a branch. We won't be using those.
 
-## Adding Files
-
-Feel free to add new files to the repository (for example, to create an outline or to collect notes). Don't create new drafts; use the `draft.md` file for all of your composition and editing. But if your creative impulse is to use more files to keep track of what you are doing, by all means do that (give new files an `.md` extension; that way, GitHub will identify them as Markdown files).
-
-#### Tip: Remember to bookmark your repository! You will be returning to it many times.
-
 ## Privacy 
 
 Your repository is only accessible by you and your instructor.
 
-## Markdown Examples
+## Using Markdown
 
-Take a look at the Markdown examples in the [Markdown docs](https://guides.github.com/features/mastering-markdown/#syntax) for GitHub. These examples will show you how to use special formatting (which, probably, you won't need if you are writing a personal essay).
+Markdown is designed to be straightforward and simple. Normally you will just separate your paragraphs with one blank line (hit the `enter` key twice). For more complex formatting (headers, lists, links, and so on), take a look at the following guides and examples:
 
-## Writing, Editing, and Saving
+[Writing on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
 
-Edit your document in your browser window. Save the document often, by using the "Commit changes" box at the bottom. Every time you make a substantive save (when you "make a commit"), add a comment in both commit boxes. The top box is for a one-liner comment; the bottom box is for notes to yourself or explanations to your instructor. GitHub handily provides sample text for the top box. The bottom box is for keeping track of what you are thinking about or planning as you work on the document (as described previously).
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Line Wrapping
 
 The default line wrapping method on GitHub is `soft wrap.` That's probably the best option. You can also choose `no wrap` to see how that works. Both options are available at the top of the editing box.
 
-# Each commit is worth one point!
+## Previewing Your Document Formatting
+
+Every time you save (commit) your changes, or if you just view your document without editing it, GitHub will render your Markdown into HTML and show the document to you in your browser. This is an excellent way to check your formatting. You can also accomplish the same thing by clicking the `Preview changes` button (with an eye icon) whenever you are editing. Click `Edit file` to return to editing. 
+
+## Editing and Saving
+
+Edit your document in your browser window. Save the document often, by using the "Commit changes" box at the bottom. Every time you make a substantive save (when you "make a commit"), add a comment in both commit boxes. The top box is for a one-liner comment; the bottom box is for notes to yourself or explanations to your instructor. GitHub handily provides sample text for the top box. The bottom box is for keeping track of what you are thinking about or planning as you work on the document (as described previously).
+
+## Each commit is worth one point!
 
 Every time you make a commit that includes a comment in the top and bottom box, and if that commit reflects new or revised material (more than a single change), you will receive one point. Please make at least 25 commits; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. You may find that you make more than 25 commits; that's fine. Make as many as you like. You will not earn any more points, but you may find that you track your document better. (Your instructor makes a commit about every ten minutes when working on a document, so that's about one commit for every few sentences.)
 
@@ -80,11 +86,7 @@ Normally you will commit to the `master` branch. You will see this option whenev
 
 Whenever you have finished working on your document for the day, be sure to commit your final changes. Whenever you are ready to work again, open the url of your draft, open the editing screen, and continue along.
 
-If you get stuck with any of this, ask for help in class or open an issue (using the 'issues` tab above).
-
-## Previewing Your Document Formatting
-
-Every time you save (commit) your changes, or if you just view your document without editing it, GitHub will render your Markdown into HTML and show the document to you in your browser. This is an excellent way to check your formatting. You can also accomplish the same thing by clicking the `Preview changes` button (with an eye icon) whenever you are editing. Click `Edit file` to return to editing. 
+If you get stuck with any of this, ask for help by opening an issue (click the `issues` tab).
 
 ## Do not write in Word!
 
@@ -95,6 +97,10 @@ To give you a sense of how GitHub tracks activity on documents (files), you can 
 ## Commit Often
 
 It helps. The more often you commit (say, after every paragraph or so), the easier it is to use GitHub's tools to traverse the history of your document. Remember that you should make at least 25 commits to your document in order to earn 25 points for this portion of the course.
+
+## Adding Files
+
+Feel free to add new files to the repository (for example, to create an outline or to collect notes). Don't create new drafts; use the `draft.md` file for all of your composition and editing. But if your creative impulse is to use more files to keep track of what you are doing, by all means do that (give new files an `.md` extension; that way, GitHub will identify them as Markdown files).
 
 ## Submitting Your Document for Review
 
