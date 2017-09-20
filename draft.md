@@ -10,5 +10,7 @@ Happy writing!
 
 
 Notes from Burns Bog
+Burns Bog was nice. I actually didn't really know what to expect. I've lived here my entire life and never been.
+It was interesting how you could turn the corner and discover completely different plants...etc. All these different habitats within one small place I didnt even know was there.
 
 I'm making some notes...
