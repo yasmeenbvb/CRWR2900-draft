@@ -17,3 +17,10 @@ I have 5 classes this semester. 4 literature classes, and this creative writing.
 It felt zen. And realxing. I just sat there, writing in my journal.
 
 This meditating stuff is also kind of weird for me, because I never do it. 
+
+My family is strange because on one side you have a bunch of crazy muslims, and I mean that in the least offensive way as posssible, but they are crazy. And on the other side there's a bunch of crazy hindu hippies. Again, no offensiveness intended. The Hindu side is really into meditiating and being zen and burning insence, veganism (shudders) and whatnot. And the Muslim side is all about praying on their hands and knees ten times a day, which I guess in a way is kind of like meditation. But my little immediate family is quite different. My mom isn't religious, and my dad is an ex-Catholic. Our family is traditional, but I never grew up with devotion to meditation, and the zen lifestyle, nor the devotion to a religion. I guess growing up, I'd laugh at my relatives for being religious nutjobs, and I guess I still do, but I've come to understand the value in their beleifs. Maybe not their specific beleifs, but the fact that they have those beleifs and they build their lives upon it.
+My point? Well I tell myself I'm too busy for sitting in the sun, writing in journals..etc.. But that isn't true. 
+My crazy relatives value their beleifs and so they make time for it, and I guess I can learn something from that.
+
+I really don't know if i'm going to keep all of this nonesesne rambling in my work, but I'll leave it here in case.
+
