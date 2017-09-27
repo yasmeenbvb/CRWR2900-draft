@@ -12,3 +12,6 @@ But looking back I realize how sad that was. See, my best friend’s family had 
 Notes from Today:
 
 I sat in the sun today which was nice. I actually never really sit in the sun anymore, and I didn't realize until today that it was something I was lacking. I watched everyone rush to the labryth, and walk through at their own pace, and I have every intention of taking my turn, but for some strange reason, all I wanted to do was sit in the sun.
+I'm really a busy person. 
+I have 5 classes this semester. 4 literature classes, and this creative writing. I work full time as an office assistant. So, I don't often have time to just sit in the sun. So it was nice to do that today. 
+It felt zen. And realxing. I just sat there, writing in my journal.
