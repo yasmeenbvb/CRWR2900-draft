@@ -8,3 +8,7 @@ Forests have also been weird places for me. In the first grade my mother warned 
 I didn’t listen to my mom though. Eventually the school talked to her crazy grandma, which didn’t stop her. A few weeks late she just showed up in the forest dressed head to toe in camo passing starbursts through the fence.
 I always thought this woman was crazy- but the good kind of crazy where you get free candy.
 But looking back I realize how sad that was. See, my best friend’s family had issues, and because of those issues, her grandma never got to see her. So she had to dress up in camo and feed fence starbursts to her own grandchild, cause that’s all she could get.
+
+Notes from Today:
+
+I sat in the sun today which was nice. I actually never really sit in the sun anymore, and I didn't realize until today that it was something I was lacking. I watched everyone rush to the labryth, and walk through at their own pace, and I have every intention of taking my turn, but for some strange reason, all I wanted to do was sit in the sun.
