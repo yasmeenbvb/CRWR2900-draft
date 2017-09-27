@@ -15,3 +15,5 @@ I sat in the sun today which was nice. I actually never really sit in the sun an
 I'm really a busy person. 
 I have 5 classes this semester. 4 literature classes, and this creative writing. I work full time as an office assistant. So, I don't often have time to just sit in the sun. So it was nice to do that today. 
 It felt zen. And realxing. I just sat there, writing in my journal.
+
+This meditating stuff is also kind of weird for me, because I never do it. 
