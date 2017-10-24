@@ -30,4 +30,5 @@ I really don't know if i'm going to keep all of this nonesesne rambling in my wo
 Redwood Park
 
 I actually got lost in the forrest for like 10 minutes. Well I wasn't really THAT lost because the forrest was fa too small, but lost enough where I couldn't hear or see anyone. And lost enough to start to feel that mild sense of anxiety, that is so weird cause you know you're okay but you lose direction ever so slightly that it throws you off.
+Through bushes. Into paths that werent really paths, but someone ad clearly been walking on. And I keep walking thinking I'll hit the gravel pathway, but I don't. Which is weirdly unnerving, even though I know its a small park, and if I keep walking the way I came, I'll run right back into that stupid little fairy queen hideaway and be just fine. 
 
