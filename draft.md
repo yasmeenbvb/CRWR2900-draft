@@ -37,8 +37,11 @@ Draft 2
 I like forests. 
 
 I always have. Ever since I was little, I liked strolling through the forest to school on winter days when the snow was weighing down on up the branches and leaves, ocassionally dumping a pile of feathery snow onto the hood of whoever was walking by. It felt like Narnia, some magical place where we interacted with the forest. 
+
 I honestly miss those days where we were so easy to entertain. Where a walk through the forest brought so much joy that I hardly noticed that my socks were soaked becuase my boots weren't waterproof. We were cold and uncomfortable, but it didn't really matter.
-I remember trying to get lost in that tiny forest, because I thought it would be an adventure, and feeling disappointed that no matter how hard I tried, I always knew the way. 
+
+I remember trying to get lost in that tiny forest, because I thought it would be an adventure, and feeling disappointed that no matter how hard I tried, I always knew the way. How weird is that? People die from getting lost in 
+
 Forests have also been weird places for me. In the first grade my mother warned me not to play near the barb wired fence that separated the forest from the playground, not because thugs and thieves, but because of my best friend’s weird old grandmother would hide in the forest and give us starburst candy through the fence when she saw us. 
 I didn’t listen to my mom though. Eventually the school talked to her crazy grandma, which didn’t stop her. A few weeks late she just showed up in the forest dressed head to toe in camo passing starbursts through the fence.
 I always thought this woman was crazy- but the good kind of crazy where you get free candy.
