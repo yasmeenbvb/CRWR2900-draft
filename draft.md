@@ -29,7 +29,7 @@ I really don't know if i'm going to keep all of this nonesesne rambling in my wo
 
 Redwood Park
 
-I actually got lost in the forrest for like 10 minutes. Well I wasn't really THAT lost because the forrest was fa too small, but lost enough where I couldn't hear or see anyone. And lost enough to start to feel that mild sense of anxiety, that is so weird cause you know you're okay but you lose direction ever so slightly that it throws you off.
+
 Through bushes. Into paths that werent really paths, but someone ad clearly been walking on. And I keep walking thinking I'll hit the gravel pathway, but I don't. Which is weirdly unnerving, even though I know its a small park, and if I keep walking the way I came, I'll run right back into that stupid little fairy queen hideaway and be just fine. 
 
 Draft 2
@@ -40,7 +40,13 @@ I always have. Ever since I was little, I liked strolling through the forest to 
 
 I honestly miss those days where we were so easy to entertain. Where a walk through the forest brought so much joy that I hardly noticed that my socks were soaked becuase my boots weren't waterproof. We were cold and uncomfortable, but it didn't really matter.
 
-I remember trying to get lost in that tiny forest, because I thought it would be an adventure, and feeling disappointed that no matter how hard I tried, I always knew the way. How weird is that? People die from getting lost in 
+I remember trying to get lost in that tiny forest, because I thought it would be an adventure, and feeling disappointed that no matter how hard I tried, I always knew the way. How weird is that? People die from getting lost in the woods, and here I am atempting to do that exact thing. Of course, there was no real danger. I guess I craved that sheltered sense of adventure. You know that adrenaline rush even when there's no need because you know you're totally fine.
+Some things never change though. Walking through Redwood Park I did the same. I tried to get lost, just for fun. 
+
+I actually got lost in the forrest for like 10 minutes. Well I wasn't really THAT lost because the forrest was far too small, but lost enough where I couldn't hear or see anyone. And lost enough to start to feel that mild sense of anxiety, which is so weird cause you know you're okay but you lose direction ever so slightly that it throws you off.
+
+Through bushes. Into paths that werent really paths, but someone had clearly been walking on. And I keep walking thinking I'll hit the gravel pathway, but I don't. Which is weirdly unnerving, even though I know its a small park, and if I keep walking the way I came, I'll run right back into that stupid little fairy queen hideaway and be just fine. 
+
 
 Forests have also been weird places for me. In the first grade my mother warned me not to play near the barb wired fence that separated the forest from the playground, not because thugs and thieves, but because of my best friend’s weird old grandmother would hide in the forest and give us starburst candy through the fence when she saw us. 
 I didn’t listen to my mom though. Eventually the school talked to her crazy grandma, which didn’t stop her. A few weeks late she just showed up in the forest dressed head to toe in camo passing starbursts through the fence.
