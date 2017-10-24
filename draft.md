@@ -32,3 +32,17 @@ Redwood Park
 I actually got lost in the forrest for like 10 minutes. Well I wasn't really THAT lost because the forrest was fa too small, but lost enough where I couldn't hear or see anyone. And lost enough to start to feel that mild sense of anxiety, that is so weird cause you know you're okay but you lose direction ever so slightly that it throws you off.
 Through bushes. Into paths that werent really paths, but someone ad clearly been walking on. And I keep walking thinking I'll hit the gravel pathway, but I don't. Which is weirdly unnerving, even though I know its a small park, and if I keep walking the way I came, I'll run right back into that stupid little fairy queen hideaway and be just fine. 
 
+Draft 2
+
+I like forests. 
+
+I always have. Ever since I was little, I liked strolling through the forest to school on winter days when the snow was weighing down on up the branches and leaves, ocassionally dumping a pile of feathery snow onto the hood of whoever was walking by. It felt like Narnia, some magical place where we interacted with the forest. 
+I honestly miss those days where we were so easy to entertain. Where a walk through the forest brought so much joy that I hardly noticed that my socks were soaked becuase my boots weren't waterproof. We were cold and uncomfortable, but it didn't really matter.
+I remember trying to get lost in that tiny forest, because I thought it would be an adventure, and feeling disappointed that no matter how hard I tried, I always knew the way. 
+Forests have also been weird places for me. In the first grade my mother warned me not to play near the barb wired fence that separated the forest from the playground, not because thugs and thieves, but because of my best friend’s weird old grandmother would hide in the forest and give us starburst candy through the fence when she saw us. 
+I didn’t listen to my mom though. Eventually the school talked to her crazy grandma, which didn’t stop her. A few weeks late she just showed up in the forest dressed head to toe in camo passing starbursts through the fence.
+I always thought this woman was crazy- but the good kind of crazy where you get free candy.
+But looking back I realize how sad that was. See, my best friend’s family had issues, and because of those issues, her grandma never got to see her. So she had to dress up in camo and feed fence starbursts to her own grandchild, cause that’s all she could get.
+
+
+
