@@ -27,3 +27,7 @@ My crazy relatives value their beleifs and so they make time for it, and I guess
 
 I really don't know if i'm going to keep all of this nonesesne rambling in my work, but I'll leave it here in case.
 
+Redwood Park
+
+I actually got lost in the forrest for like 10 minutes. Well I wasn't really THAT lost because the forrest was fa too small, but lost enough where I couldn't hear or see anyone. And lost enough to start to feel that mild sense of anxiety, that is so weird cause you know you're okay but you lose direction ever so slightly that it throws you off.
+
