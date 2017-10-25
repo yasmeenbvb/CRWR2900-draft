@@ -47,11 +47,11 @@ I actually got lost in the forrest for like 10 minutes. Well I wasn't really THA
 
 Through bushes. Into paths that werent really paths, but someone had clearly been walking on. And I keep walking thinking I'll hit the gravel pathway, but I don't. Which is weirdly unnerving, even though I know its a small park, and if I keep walking the way I came, I'll run right back into that stupid little fairy queen hideaway and be just fine. 
 
+Forests have also been weird places for me. In the first grade my mom warned me not to play near the barb wired fence that separated the forest from the playground at school. she wasn't worried about thugs and thieves, rather my best friend’s weird old grandmother who would hide in the forest and give us starburst candy through the fence when she saw us. 
 
-Forests have also been weird places for me. In the first grade my mother warned me not to play near the barb wired fence that separated the forest from the playground, not because thugs and thieves, but because of my best friend’s weird old grandmother would hide in the forest and give us starburst candy through the fence when she saw us. 
-I didn’t listen to my mom though. Eventually the school talked to her crazy grandma, which didn’t stop her. A few weeks late she just showed up in the forest dressed head to toe in camo passing starbursts through the fence.
-I always thought this woman was crazy- but the good kind of crazy where you get free candy.
-But looking back I realize how sad that was. See, my best friend’s family had issues, and because of those issues, her grandma never got to see her. So she had to dress up in camo and feed fence starbursts to her own grandchild, cause that’s all she could get.
+It seems innocent enough really. A sweet old grandma, giving her grandchild candy, until you realize that the reason she did that was because she wasn't allowed to see her grandchild, my best friend. Funny how a cute story of a crazy old woman becomes oddly sad when you look back at it as an adult. Family problems and divorce lead to cutting people out to the point where old women dress up in camo and hide in the forrest with a pocket full of starburst because that's the only form of affection they are able to give. 
+
+
 
 
 
