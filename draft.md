@@ -34,9 +34,9 @@ Through bushes. Into paths that werent really paths, but someone ad clearly been
 
 Draft 2
 
-I like forests. 
+I like forests. I always have. 
 
-I always have. Ever since I was little, I liked strolling through the forest to school on winter days when the snow was weighing down on up the branches and leaves, ocassionally dumping a pile of feathery snow onto the hood of whoever was walking by. It felt like Narnia, some magical place where we interacted with the forest. 
+Ever since I was little, I liked strolling through the forest to school on winter days when the snow was weighing down on up the branches and leaves, ocassionally dumping a pile of feathery snow onto the hood of whoever was walking by. It felt like Narnia, some magical place where we interacted with the forest. 
 
 I honestly miss those days where we were so easy to entertain. Where a walk through the forest brought so much joy that I hardly noticed that my socks were soaked becuase my boots weren't waterproof. We were cold and uncomfortable, but it didn't really matter.
 
@@ -50,6 +50,12 @@ Through bushes. Into paths that werent really paths, but someone had clearly bee
 Forests have also been weird places for me. In the first grade my mom warned me not to play near the barb wired fence that separated the forest from the playground at school. she wasn't worried about thugs and thieves, rather my best friend’s weird old grandmother who would hide in the forest and give us starburst candy through the fence when she saw us. 
 
 It seems innocent enough really. A sweet old grandma, giving her grandchild candy, until you realize that the reason she did that was because she wasn't allowed to see her grandchild, my best friend. Funny how a cute story of a crazy old woman becomes oddly sad when you look back at it as an adult. Family problems and divorce lead to cutting people out to the point where old women dress up in camo and hide in the forrest with a pocket full of starburst because that's the only form of affection they are able to give. 
+
+In my old house we had trees. Big apple and pear trees, and bushes with berries, nad a garden full of vegtables. It was so bright and colourful. My dad put a tire swing on one of the trees and I spent hours on it. I remember a friend of mine, Kassaundra, who lived just down the street would come over and spend hours on the swing with me.
+
+She was the adventurous one and so she would wrap her legs through the inside of the tire and dangle with her head underneath her so her uncut blonde hair would sweep across the ground.
+
+I never did that. I was scared, and if we're being honest it still freaks me out. I guess I'm just not that adventurous, but that's not the point. 
 
 
 
