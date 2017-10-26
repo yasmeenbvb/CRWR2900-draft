@@ -59,6 +59,7 @@ I never did that. I was scared, and if we're being honest it still freaks me out
 
 
 Notes: Leaves on the stairs in the forrest, arches, Bridge covered in leaves with the stream underneath. Salmon, birds. Nature-- interacting with wildlife as well as peers. More social outing
+Add notes from Tynehead to end??
 
 
 
