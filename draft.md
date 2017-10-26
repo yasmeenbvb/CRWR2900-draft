@@ -55,7 +55,7 @@ In my old house we had trees. Big apple and pear trees, and bushes with berries,
 
 She was the adventurous one and so she would wrap her legs through the inside of the tire and dangle with her head underneath her so her uncut blonde hair would sweep across the ground.
 
-I never did that. I was scared, and if we're being honest it still freaks me out. I guess I'm just not that adventurous, but that's not the point. 
+I never did that. I was scared, and if we're being honest it still freaks me out. I guess I'm just not that adventurous, but that's not the point.. 
 
 
 
