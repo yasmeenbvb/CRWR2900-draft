@@ -58,6 +58,9 @@ She was the adventurous one and so she would wrap her legs through the inside of
 I never did that. I was scared, and if we're being honest it still freaks me out. I guess I'm just not that adventurous, but that's not the point.. 
 
 
+Notes: Leaves on the stairs in the forrest, arches, Bridge covered in leaves with the stream underneath. Salmon, birds. Nature-- interacting with wildlife as well as peers. More social outing
+
+
 
 
 
